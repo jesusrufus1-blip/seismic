@@ -1,0 +1,11 @@
+requests>=2.31
+pandas>=2.0
+numpy>=1.24
+sqlalchemy>=2.0
+pymysql>=1.1
+cryptography>=41.0
+streamlit>=1.35
+plotly>=5.20
+python-dotenv>=1.0
+ipykernel>=6.29
+nbformat>=5.9
